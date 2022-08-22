@@ -1,0 +1,24 @@
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\bin\Debug\PRÁCTICO DE SERIES.exe.config
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\bin\Debug\PRÁCTICO DE SERIES.exe
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\bin\Debug\PRÁCTICO DE SERIES.pdb
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\bin\Debug\PRÁCTICO DE SERIES.xml
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO_DE_SERIES.Form1.resources
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO_DE_SERIES.Resources.resources
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.exe
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.xml
+C:\Users\USER\source\repos\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.pdb
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\bin\Debug\PRÁCTICO DE SERIES.exe.config
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\bin\Debug\PRÁCTICO DE SERIES.exe
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\bin\Debug\PRÁCTICO DE SERIES.pdb
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\bin\Debug\PRÁCTICO DE SERIES.xml
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO_DE_SERIES.Form1.resources
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO_DE_SERIES.Resources.resources
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.exe
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.xml
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\PRÁCTICO DE SERIES\obj\Debug\PRÁCTICO DE SERIES.pdb
