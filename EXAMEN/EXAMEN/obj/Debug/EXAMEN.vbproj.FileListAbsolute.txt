@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\bin\Debug\EXAMEN.exe.config
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\bin\Debug\EXAMEN.exe
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\bin\Debug\EXAMEN.pdb
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\bin\Debug\EXAMEN.xml
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.vbprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.Form1.resources
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.Resources.resources
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.vbproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.exe
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.xml
+C:\Users\USUARIO\source\repos\EXAMEN\EXAMEN\obj\Debug\EXAMEN.pdb
