@@ -1,0 +1,166 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ÁREAS GEOMETRICAS
+</name>
+</assembly>
+<members>
+<member name="T:ÁREAS_GEOMETRICAS.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej10">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej11">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej12">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej13">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej14">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej15">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej16">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej17">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej18">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej19">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej20">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej21">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej22">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej23">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej25">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej26">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej27">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej271">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej6">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej7">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej8">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ÁREAS_GEOMETRICAS.My.Resources.Resources.ej9">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
