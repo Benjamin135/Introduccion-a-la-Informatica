@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FORMULAS GEOMETRICAS", "FORMULAS GEOMETRICAS\FORMULAS GEOMETRICAS.vbproj", "{85981A46-F6CA-4317-81C3-9F83260B0A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85981A46-F6CA-4317-81C3-9F83260B0A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85981A46-F6CA-4317-81C3-9F83260B0A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85981A46-F6CA-4317-81C3-9F83260B0A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85981A46-F6CA-4317-81C3-9F83260B0A00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB3FFC0-B497-4D5A-BAC9-CB8C11D05584}
+	EndGlobalSection
+EndGlobal

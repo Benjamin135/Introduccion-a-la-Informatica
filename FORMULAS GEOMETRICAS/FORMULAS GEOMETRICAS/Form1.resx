@@ -1,0 +1,867 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="MenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="ÁREADEUNACIRCUNFERENCIAToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 22</value>
+  </data>
+  <data name="ÁREADEUNACIRCUNFERENCIAToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UNA CIRCUNFERENCIA</value>
+  </data>
+  <data name="ÁREADEUNARECTÁNGULOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 22</value>
+  </data>
+  <data name="ÁREADEUNARECTÁNGULOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN RECTÁNGULO</value>
+  </data>
+  <data name="ÁREADEUNTRIÁNGULOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 22</value>
+  </data>
+  <data name="ÁREADEUNTRIÁNGULOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN TRIÁNGULO</value>
+  </data>
+  <data name="ÁREADEUNCUADRADOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 22</value>
+  </data>
+  <data name="ÁREADEUNCUADRADOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN CUADRADO</value>
+  </data>
+  <data name="ÁREADEUNAELIPSEToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 22</value>
+  </data>
+  <data name="ÁREADEUNAELIPSEToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UNA ELIPSE</value>
+  </data>
+  <data name="ÁREADEUNTRAPECIOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 22</value>
+  </data>
+  <data name="ÁREADEUNTRAPECIOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN TRAPECIO</value>
+  </data>
+  <data name="ÁREADEUNROMBOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 22</value>
+  </data>
+  <data name="ÁREADEUNROMBOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN ROMBO</value>
+  </data>
+  <data name="ÁREADEUNPENTAGONOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 22</value>
+  </data>
+  <data name="ÁREADEUNPENTAGONOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN PENTAGONO</value>
+  </data>
+  <data name="ÁREADEUNHEXAGONOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 22</value>
+  </data>
+  <data name="ÁREADEUNHEXAGONOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN HEXAGONO</value>
+  </data>
+  <data name="MENUToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 20</value>
+  </data>
+  <data name="MENUToolStripMenuItem.Text" xml:space="preserve">
+    <value>CÁLCULO DE ÁREAS</value>
+  </data>
+  <data name="VOLUMENDEUNCILINDROToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>314, 22</value>
+  </data>
+  <data name="VOLUMENDEUNCILINDROToolStripMenuItem.Text" xml:space="preserve">
+    <value>VOLUMEN DE UN CILINDRO</value>
+  </data>
+  <data name="VOLUMENDEUNCONOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>314, 22</value>
+  </data>
+  <data name="VOLUMENDEUNCONOToolStripMenuItem.Text" xml:space="preserve">
+    <value>VOLUMEN DE UN CONO</value>
+  </data>
+  <data name="VOLUMENDEUNAPIRAMIDERECTANGULARToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>314, 22</value>
+  </data>
+  <data name="VOLUMENDEUNAPIRAMIDERECTANGULARToolStripMenuItem.Text" xml:space="preserve">
+    <value>VOLUMEN DE UNA PIRAMIDE RECTANGULAR</value>
+  </data>
+  <data name="VOLUMENDEUNPRISMAPENTAGONALToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>314, 22</value>
+  </data>
+  <data name="VOLUMENDEUNPRISMAPENTAGONALToolStripMenuItem.Text" xml:space="preserve">
+    <value>VOLUMEN DE UN PRISMA PENTAGONAL</value>
+  </data>
+  <data name="CÁLCULODEVOLUMENToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 20</value>
+  </data>
+  <data name="CÁLCULODEVOLUMENToolStripMenuItem.Text" xml:space="preserve">
+    <value>CÁLCULO DE VOLUMEN</value>
+  </data>
+  <data name="DIFERENCIADEUNCUADRADOTRIÁNGULOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="DIFERENCIADEUNCUADRADOTRIÁNGULOToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE UN CUADRADO-TRIÁNGULO </value>
+  </data>
+  <data name="DIFERENCIADEUNRECTÁNGULOELIPSEToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="DIFERENCIADEUNRECTÁNGULOELIPSEToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE UN RECTÁNGULO-ELIPSE</value>
+  </data>
+  <data name="DIFERENCIADEUNRECTÁNGULOTRIÁNGULOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="DIFERENCIADEUNRECTÁNGULOTRIÁNGULOToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE UN RECTÁNGULO-TRIÁNGULO </value>
+  </data>
+  <data name="DIFERENCIADEUNTRAPECIOCIRCUNFERENCIAToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="DIFERENCIADEUNTRAPECIOCIRCUNFERENCIAToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE UN TRAPECIO-CIRCUNFERENCIA</value>
+  </data>
+  <data name="DIFERENCIADEUNTRIÁNGULOCIRCUNFERENCIAToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="DIFERENCIADEUNTRIÁNGULOCIRCUNFERENCIAToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE UN TRIÁNGULO EQUILATERO-CIRCUNFERENCIA</value>
+  </data>
+  <data name="DIFERENCIADEUNCUADRADOCIRCUNFERENCIAToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="DIFERENCIADEUNCUADRADOCIRCUNFERENCIAToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE UN CUADRADO-CIRCUNFERENCIA</value>
+  </data>
+  <data name="DIFERENCIADEUNRECTÁNGULOCON2TRIÁNGULOSToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="DIFERENCIADEUNRECTÁNGULOCON2TRIÁNGULOSToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE UN RECTÁNGULO-2 TRIÁNGULOS</value>
+  </data>
+  <data name="DIFERENCIADEELIPCEROMBOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="DIFERENCIADEELIPCEROMBOToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE ELIPSE-ROMBO</value>
+  </data>
+  <data name="DIFERENCIADETRAPECIOSToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="DIFERENCIADETRAPECIOSToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE TRAPECIOS</value>
+  </data>
+  <data name="DIFERENCIADEÁREASToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 20</value>
+  </data>
+  <data name="DIFERENCIADEÁREASToolStripMenuItem.Text" xml:space="preserve">
+    <value>DIFERENCIA DE ÁREAS</value>
+  </data>
+  <data name="SUMADETRIÁNGULORECTÁNGULOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="SUMADETRIÁNGULORECTÁNGULOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UNA PIRAMIDE RECTANGULAR</value>
+  </data>
+  <data name="ÁREADEUNTRONCODECONOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="ÁREADEUNTRONCODECONOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN TRONCO DE CONO</value>
+  </data>
+  <data name="ÁREADEUNPRISMAPENTAGONALToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="ÁREADEUNPRISMAPENTAGONALToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN PRISMA PENTAGONAL</value>
+  </data>
+  <data name="ÁREADEUNCILINDROToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="ÁREADEUNCILINDROToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN CILINDRO</value>
+  </data>
+  <data name="ÁREADEUNHEXAGONOToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="ÁREADEUNHEXAGONOToolStripMenuItem1.Text" xml:space="preserve">
+    <value>ÁREA DE UN PRISMA HEXAGONAL</value>
+  </data>
+  <data name="ÁREADEUNPRISMARECTANGULARToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="ÁREADEUNPRISMARECTANGULARToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN PRISMA RECTANGULAR</value>
+  </data>
+  <data name="ÁREADEUNCONOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="ÁREADEUNCONOToolStripMenuItem.Text" xml:space="preserve">
+    <value>ÁREA DE UN CONO</value>
+  </data>
+  <data name="ÁREADEUNPRISMAPENTAGONALToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="ÁREADEUNPRISMAPENTAGONALToolStripMenuItem1.Text" xml:space="preserve">
+    <value>ÁREA DE UN PRISMA PENTAGONAL</value>
+  </data>
+  <data name="SUMADEÁREASToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 20</value>
+  </data>
+  <data name="SUMADEÁREASToolStripMenuItem.Text" xml:space="preserve">
+    <value>SUMA DE ÁREAS</value>
+  </data>
+  <data name="MenuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="MenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>700, 24</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="MenuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="MenuStrip1.Text" xml:space="preserve">
+    <value>MenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;MenuStrip1.Name" xml:space="preserve">
+    <value>MenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;MenuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MenuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MenuStrip1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="TextBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="TextBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>42, 78</value>
+  </data>
+  <data name="TextBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 22</value>
+  </data>
+  <data name="TextBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;TextBox1.Name" xml:space="preserve">
+    <value>TextBox1</value>
+  </data>
+  <data name="&gt;&gt;TextBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBox1.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;TextBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TextBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="TextBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 267</value>
+  </data>
+  <data name="TextBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>181, 22</value>
+  </data>
+  <data name="TextBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;TextBox2.Name" xml:space="preserve">
+    <value>TextBox2</value>
+  </data>
+  <data name="&gt;&gt;TextBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TextBox2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="TextBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="TextBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>196, 78</value>
+  </data>
+  <data name="TextBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 22</value>
+  </data>
+  <data name="TextBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;TextBox3.Name" xml:space="preserve">
+    <value>TextBox3</value>
+  </data>
+  <data name="&gt;&gt;TextBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBox3.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;TextBox3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="TextBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="TextBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>350, 78</value>
+  </data>
+  <data name="TextBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 22</value>
+  </data>
+  <data name="TextBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;TextBox4.Name" xml:space="preserve">
+    <value>TextBox4</value>
+  </data>
+  <data name="&gt;&gt;TextBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBox4.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;TextBox4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 50</value>
+  </data>
+  <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 16</value>
+  </data>
+  <data name="Label1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>DATO 1</value>
+  </data>
+  <data name="&gt;&gt;Label1.Name" xml:space="preserve">
+    <value>Label1</value>
+  </data>
+  <data name="&gt;&gt;Label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Label1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>226, 50</value>
+  </data>
+  <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 16</value>
+  </data>
+  <data name="Label2.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>DATO 2</value>
+  </data>
+  <data name="&gt;&gt;Label2.Name" xml:space="preserve">
+    <value>Label2</value>
+  </data>
+  <data name="&gt;&gt;Label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label2.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="Label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="Label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>377, 50</value>
+  </data>
+  <data name="Label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 16</value>
+  </data>
+  <data name="Label3.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="Label3.Text" xml:space="preserve">
+    <value>DATO 3</value>
+  </data>
+  <data name="&gt;&gt;Label3.Name" xml:space="preserve">
+    <value>Label3</value>
+  </data>
+  <data name="&gt;&gt;Label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label3.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Label3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="Label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>320, 237</value>
+  </data>
+  <data name="Label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 16</value>
+  </data>
+  <data name="Label4.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="Label4.Text" xml:space="preserve">
+    <value>RESULTADO:</value>
+  </data>
+  <data name="&gt;&gt;Label4.Name" xml:space="preserve">
+    <value>Label4</value>
+  </data>
+  <data name="&gt;&gt;Label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Label4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>166, 73</value>
+  </data>
+  <data name="Label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 13</value>
+  </data>
+  <data name="Label5.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;Label5.Name" xml:space="preserve">
+    <value>Label5</value>
+  </data>
+  <data name="&gt;&gt;Label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Label5.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="GroupBox1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="GroupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="GroupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>110, 73</value>
+  </data>
+  <data name="GroupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>490, 140</value>
+  </data>
+  <data name="GroupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="GroupBox1.Text" xml:space="preserve">
+    <value>PARAMETROS DE ENTRADA:</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Name" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>700, 369</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>716, 408</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>716, 408</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;MENUToolStripMenuItem.Name" xml:space="preserve">
+    <value>MENUToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;MENUToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNACIRCUNFERENCIAToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNACIRCUNFERENCIAToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNACIRCUNFERENCIAToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNARECTÁNGULOToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNARECTÁNGULOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNARECTÁNGULOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNTRIÁNGULOToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNTRIÁNGULOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNTRIÁNGULOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNCUADRADOToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNCUADRADOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNCUADRADOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNAELIPSEToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNAELIPSEToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNAELIPSEToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNTRAPECIOToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNTRAPECIOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNTRAPECIOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNROMBOToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNROMBOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNROMBOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNPENTAGONOToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNPENTAGONOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNPENTAGONOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNHEXAGONOToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNHEXAGONOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNHEXAGONOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CÁLCULODEVOLUMENToolStripMenuItem.Name" xml:space="preserve">
+    <value>CÁLCULODEVOLUMENToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;CÁLCULODEVOLUMENToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;VOLUMENDEUNCILINDROToolStripMenuItem.Name" xml:space="preserve">
+    <value>VOLUMENDEUNCILINDROToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;VOLUMENDEUNCILINDROToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;VOLUMENDEUNCONOToolStripMenuItem.Name" xml:space="preserve">
+    <value>VOLUMENDEUNCONOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;VOLUMENDEUNCONOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;VOLUMENDEUNAPIRAMIDERECTANGULARToolStripMenuItem.Name" xml:space="preserve">
+    <value>VOLUMENDEUNAPIRAMIDERECTANGULARToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;VOLUMENDEUNAPIRAMIDERECTANGULARToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;VOLUMENDEUNPRISMAPENTAGONALToolStripMenuItem.Name" xml:space="preserve">
+    <value>VOLUMENDEUNPRISMAPENTAGONALToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;VOLUMENDEUNPRISMAPENTAGONALToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEÁREASToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADEÁREASToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEÁREASToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNCUADRADOTRIÁNGULOToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADEUNCUADRADOTRIÁNGULOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNCUADRADOTRIÁNGULOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNRECTÁNGULOELIPSEToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADEUNRECTÁNGULOELIPSEToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNRECTÁNGULOELIPSEToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNRECTÁNGULOTRIÁNGULOToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADEUNRECTÁNGULOTRIÁNGULOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNRECTÁNGULOTRIÁNGULOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNTRAPECIOCIRCUNFERENCIAToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADEUNTRAPECIOCIRCUNFERENCIAToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNTRAPECIOCIRCUNFERENCIAToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNTRIÁNGULOCIRCUNFERENCIAToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADEUNTRIÁNGULOCIRCUNFERENCIAToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNTRIÁNGULOCIRCUNFERENCIAToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNCUADRADOCIRCUNFERENCIAToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADEUNCUADRADOCIRCUNFERENCIAToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNCUADRADOCIRCUNFERENCIAToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNRECTÁNGULOCON2TRIÁNGULOSToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADEUNRECTÁNGULOCON2TRIÁNGULOSToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEUNRECTÁNGULOCON2TRIÁNGULOSToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEELIPCEROMBOToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADEELIPCEROMBOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADEELIPCEROMBOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SUMADEÁREASToolStripMenuItem.Name" xml:space="preserve">
+    <value>SUMADEÁREASToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;SUMADEÁREASToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SUMADETRIÁNGULORECTÁNGULOToolStripMenuItem.Name" xml:space="preserve">
+    <value>SUMADETRIÁNGULORECTÁNGULOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;SUMADETRIÁNGULORECTÁNGULOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNTRONCODECONOToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNTRONCODECONOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNTRONCODECONOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNPRISMAPENTAGONALToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNPRISMAPENTAGONALToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNPRISMAPENTAGONALToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNCILINDROToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNCILINDROToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNCILINDROToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNHEXAGONOToolStripMenuItem1.Name" xml:space="preserve">
+    <value>ÁREADEUNHEXAGONOToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNHEXAGONOToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNPRISMARECTANGULARToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNPRISMARECTANGULARToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNPRISMARECTANGULARToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNCONOToolStripMenuItem.Name" xml:space="preserve">
+    <value>ÁREADEUNCONOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNCONOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNPRISMAPENTAGONALToolStripMenuItem1.Name" xml:space="preserve">
+    <value>ÁREADEUNPRISMAPENTAGONALToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;ÁREADEUNPRISMAPENTAGONALToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADETRAPECIOSToolStripMenuItem.Name" xml:space="preserve">
+    <value>DIFERENCIADETRAPECIOSToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;DIFERENCIADETRAPECIOSToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
